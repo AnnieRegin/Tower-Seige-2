@@ -1,2 +1,2 @@
-# Tower-Seige-2
-C30 student project
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
